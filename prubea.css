@@ -1,0 +1,15 @@
+body{
+    background-image: radial-gradient(circle, transparent 80%, black), url(../fondos/montalas.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    color: azure;
+}
+h2 {
+    text-align: center;
+    color: azure;
+}
